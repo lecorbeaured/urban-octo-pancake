@@ -7,6 +7,13 @@
   </head>
   <body>
     <div id="root"></div>
+    <script>
+      // tolerate missing external listeners (fixes vendor runtime error No Listener: tabs:outgoing.message.ready)
+      try{
+        window.addEventListener('tabs:outgoing.message.ready', function(){}, {passive:true});
+        window.addEventListener('tabs:outgoing.message', function(){}, {passive:true});
+      }catch(e){/* ignore */}
+    </script>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
