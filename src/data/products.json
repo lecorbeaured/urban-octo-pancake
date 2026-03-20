@@ -188,5 +188,91 @@
         "Premium price"
       ]
     }
+  ],
+  "outdoor": [
+    {
+      "slug": "wise-owl-hammock",
+      "name": "Wise Owl Outfitters Hammock",
+      "price": "$35-$80",
+      "image": "/assets/tommy-chair.jpg",
+      "description": "Lightweight double hammock with tree straps for easy setup.",
+      "pros": [
+        "Comfortable",
+        "Easy setup"
+      ],
+      "cons": [
+        "Not for extreme conditions"
+      ]
+    },
+    {
+      "slug": "biolite-portable-grill",
+      "name": "BioLite Portable Grill",
+      "price": "$199-$249",
+      "image": "/assets/jbl.jpg",
+      "description": "Portable grill designed for easy camping cooking and low smoke.",
+      "pros": [
+        "Portable",
+        "Low smoke"
+      ],
+      "cons": [
+        "Pricey"
+      ]
+    },
+    {
+      "slug": "goal-zero-solar-charger",
+      "name": "Goal Zero Nomad Solar Charger",
+      "price": "$100-$299",
+      "image": "/assets/anker.jpg",
+      "description": "Foldable solar panel to keep devices charged off-grid.",
+      "pros": [
+        "Reliable",
+        "Lightweight"
+      ],
+      "cons": [
+        "Charging depends on sun"
+      ]
+    },
+    {
+      "slug": "headlamp-bright",
+      "name": "High-Lumen Headlamp",
+      "price": "$20-$60",
+      "image": "/assets/beach-tent.jpg",
+      "description": "Long-run, high lumen headlamp with multiple beam modes for night hiking.",
+      "pros": [
+        "Bright",
+        "Long battery life"
+      ],
+      "cons": [
+        "Heavier than basic models"
+      ]
+    },
+    {
+      "slug": "camping-chair-portable",
+      "name": "Portable Camping Chair",
+      "price": "$40-$120",
+      "image": "/assets/tommy-chair.jpg",
+      "description": "Foldable camping chair with cup holder and carry bag.",
+      "pros": [
+        "Comfort",
+        "Easy transport"
+      ],
+      "cons": [
+        "Bulk when packed"
+      ]
+    },
+    {
+      "slug": "waterfilter-straw",
+      "name": "Portable Water Filter Straw",
+      "price": "$20-$40",
+      "image": "/assets/anker.jpg",
+      "description": "Compact water filter for safe drinking on hikes and adventures.",
+      "pros": [
+        "Lightweight",
+        "Effective"
+      ],
+      "cons": [
+        "Limited flow rate"
+      ]
+    }
   ]
 }
