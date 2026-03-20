@@ -1,0 +1,4 @@
+:root{--ocean:#0077cc;--sand:#f1dcc0;--sun:#ff7a3d;--sky:#a6e0ff;--palm:#2fa36f}
+body{font-family:Inter,system-ui,Arial,sans-serif;margin:0;background:white;color:#0b0b0b}
+.hero{padding:4rem 1rem;text-align:center;background:linear-gradient(180deg, #a6e0ff33, #ffffff)}
+.featured{padding:2rem}
