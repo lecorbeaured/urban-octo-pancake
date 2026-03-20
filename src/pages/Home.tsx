@@ -12,7 +12,7 @@ const categories = [
 export default function Home(){
   return (
     <>
-      <header className="hero">
+      <header className="hero hero-image">
         <div className="container">
           <p className="label">SummerGearLab · Everything You Need for the Perfect Summer</p>
           <h1>Discover the Best Products for the Ultimate Summer</h1>
