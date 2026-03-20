@@ -12,6 +12,9 @@ const CategoryPage = React.lazy(() => import('./pages/categories/CategoryPage'))
 const ProductPage = React.lazy(() => import('./pages/products/ProductPage'))
 const BestBeachChairs = React.lazy(() => import('./pages/guides/BestBeachChairs'))
 const TravelGuide = React.lazy(() => import('./pages/guides/TravelGuide'))
+const OutdoorGuide = React.lazy(() => import('./pages/guides/OutdoorGuide'))
+const PoolGuide = React.lazy(() => import('./pages/guides/PoolGuide'))
+const HealthGuide = React.lazy(() => import('./pages/guides/HealthGuide'))
 
 createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
@@ -25,6 +28,9 @@ createRoot(document.getElementById('root')!).render(
         <Route path='/product/:slug' element={<ProductPage/>} />
         <Route path='/guides/best-beach-chairs' element={<BestBeachChairs/>} />
         <Route path='/guides/travel-gear' element={<TravelGuide/>} />
+        <Route path='/guides/outdoor-gear' element={<OutdoorGuide/>} />
+        <Route path='/guides/pool-party' element={<PoolGuide/>} />
+        <Route path='/guides/summer-health' element={<HealthGuide/>} />
         <Route path='/contact' element={<Contact/>} />
         <Route path='/privacy' element={<Privacy/>} />
         <Route path='/disclosure' element={<Disclosure/>} />
