@@ -1,3 +1,4 @@
+import ErrorBoundary from "./components/ErrorBoundary"
 import React, { Suspense } from 'react'
 import { createRoot } from 'react-dom/client'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
@@ -13,6 +14,7 @@ const BestBeachChairs = React.lazy(() => import('./pages/guides/BestBeachChairs'
 
 createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
+      <ErrorBoundary>
     <BrowserRouter>
       <Suspense fallback={<div className='loader'>Loading…</div>}>
       <Routes>
@@ -26,6 +28,7 @@ createRoot(document.getElementById('root')!).render(
         <Route path='/disclosure' element={<Disclosure/>} />
       </Routes>
       </Suspense>
+      </ErrorBoundary>
     </BrowserRouter>
   </React.StrictMode>
 )
