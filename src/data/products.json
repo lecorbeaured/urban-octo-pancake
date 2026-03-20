@@ -4,7 +4,7 @@
       "slug": "tommy-bahama-backpack-beach-chair",
       "name": "Tommy Bahama Backpack Beach Chair",
       "price": "$80-$150",
-      "image": "/assets/tommy-chair.jpg",
+      "image": "/assets/beach-gear.jpg",
       "description": "Lightweight backpack beach chair with multiple recline positions and cup holder.",
       "pros": [
         "Easy to carry",
@@ -18,7 +18,7 @@
       "slug": "ocoopa-beach-tent",
       "name": "OCOOPA Beach Tent",
       "price": "$60-$120",
-      "image": "/assets/beach-tent.jpg",
+      "image": "/assets/beach-gear.jpg",
       "description": "Pop-up beach tent with UPF 50+ protection and sand anchors.",
       "pros": [
         "Sun protection",
@@ -32,7 +32,7 @@
       "slug": "yeti-hopper-cooler",
       "name": "Yeti Hopper Cooler",
       "price": "$249-$399",
-      "image": "/assets/anker.jpg",
+      "image": "/assets/pool-party.jpg",
       "description": "Premium insulated cooler that keeps ice for days.",
       "pros": [
         "Excellent ice retention",
@@ -46,7 +46,7 @@
       "slug": "big-umbrella-pro",
       "name": "Big Beach Umbrella",
       "price": "$40-$90",
-      "image": "/assets/beach-tent.jpg",
+      "image": "/assets/beach-gear.jpg",
       "description": "Oversized beach umbrella with vented top for wind stability.",
       "pros": [
         "Large shade area",
@@ -60,7 +60,7 @@
       "slug": "waterproof-phone-pouch",
       "name": "Waterproof Phone Pouch",
       "price": "$8-$20",
-      "image": "/assets/jbl.jpg",
+      "image": "/assets/beach-gear.jpg",
       "description": "Clear waterproof pouch with lanyard for phone protection at the beach.",
       "pros": [
         "Affordable",
@@ -74,7 +74,7 @@
       "slug": "beach-bag-essentials",
       "name": "Large Beach Bag",
       "price": "$25-$70",
-      "image": "/assets/tommy-chair.jpg",
+      "image": "/assets/beach-gear.jpg",
       "description": "Spacious beach bag with wet/dry compartments and sand proof bottom.",
       "pros": [
         "Big capacity",
@@ -90,7 +90,7 @@
       "slug": "anker-portable-charger",
       "name": "Anker 20000mAh Portable Charger",
       "price": "$35-$60",
-      "image": "/assets/anker.jpg",
+      "image": "/assets/travel-gear.jpg",
       "description": "High-capacity power bank that charges two devices simultaneously. Compact and TSA-friendly.",
       "pros": [
         "Fast charging",
@@ -105,7 +105,7 @@
       "slug": "bagsmart-travel-organizer",
       "name": "BAGSMART Travel Organizer",
       "price": "$25-$45",
-      "image": "/assets/tommy-chair.jpg",
+      "image": "/assets/travel-gear.jpg",
       "description": "Multi-compartment cable and accessory organizer that keeps your tech tangle-free in transit.",
       "pros": [
         "Multiple pockets",
@@ -119,7 +119,7 @@
       "slug": "samsonite-travel-backpack",
       "name": "Samsonite Freeform Travel Backpack",
       "price": "$90-$150",
-      "image": "/assets/beach-tent.jpg",
+      "image": "/assets/travel-gear.jpg",
       "description": "Carry-on friendly backpack with laptop sleeve and ergonomic straps for long travel days.",
       "pros": [
         "Airline carry-on size",
@@ -133,7 +133,7 @@
       "slug": "compression-packing-cubes",
       "name": "Compression Packing Cubes (6-set)",
       "price": "$25-$40",
-      "image": "/assets/jbl.jpg",
+      "image": "/assets/travel-gear.jpg",
       "description": "Set of 6 compression packing cubes to maximize luggage space and keep clothes organized.",
       "pros": [
         "Maximize suitcase space",
@@ -147,7 +147,7 @@
       "slug": "neck-pillow-travel",
       "name": "BCOZZY Travel Neck Pillow",
       "price": "$30-$50",
-      "image": "/assets/tommy-chair.jpg",
+      "image": "/assets/travel-gear.jpg",
       "description": "Ergonomic memory foam neck pillow that wraps around fully for head and chin support on flights.",
       "pros": [
         "Head and chin support",
@@ -161,7 +161,7 @@
       "slug": "mini-handheld-fan",
       "name": "Rechargeable Mini Handheld Fan",
       "price": "$15-$30",
-      "image": "/assets/anker.jpg",
+      "image": "/assets/travel-gear.jpg",
       "description": "Compact USB rechargeable fan with 3 speed settings. Perfect for airports, festivals, and travel days.",
       "pros": [
         "Lightweight",
@@ -194,7 +194,7 @@
       "slug": "wise-owl-hammock",
       "name": "Wise Owl Outfitters Hammock",
       "price": "$35-$80",
-      "image": "/assets/tommy-chair.jpg",
+      "image": "/assets/outdoor-adventure.jpg",
       "description": "Lightweight double hammock with tree straps for easy setup.",
       "pros": [
         "Comfortable",
@@ -208,7 +208,7 @@
       "slug": "biolite-portable-grill",
       "name": "BioLite Portable Grill",
       "price": "$199-$249",
-      "image": "/assets/jbl.jpg",
+      "image": "/assets/outdoor-adventure.jpg",
       "description": "Portable grill designed for easy camping cooking and low smoke.",
       "pros": [
         "Portable",
@@ -222,7 +222,7 @@
       "slug": "goal-zero-solar-charger",
       "name": "Goal Zero Nomad Solar Charger",
       "price": "$100-$299",
-      "image": "/assets/anker.jpg",
+      "image": "/assets/outdoor-adventure.jpg",
       "description": "Foldable solar panel to keep devices charged off-grid.",
       "pros": [
         "Reliable",
@@ -236,7 +236,7 @@
       "slug": "headlamp-bright",
       "name": "High-Lumen Headlamp",
       "price": "$20-$60",
-      "image": "/assets/beach-tent.jpg",
+      "image": "/assets/outdoor-adventure.jpg",
       "description": "Long-run, high lumen headlamp with multiple beam modes for night hiking.",
       "pros": [
         "Bright",
@@ -250,7 +250,7 @@
       "slug": "camping-chair-portable",
       "name": "Portable Camping Chair",
       "price": "$40-$120",
-      "image": "/assets/tommy-chair.jpg",
+      "image": "/assets/outdoor-adventure.jpg",
       "description": "Foldable camping chair with cup holder and carry bag.",
       "pros": [
         "Comfort",
@@ -264,7 +264,7 @@
       "slug": "waterfilter-straw",
       "name": "Portable Water Filter Straw",
       "price": "$20-$40",
-      "image": "/assets/anker.jpg",
+      "image": "/assets/outdoor-adventure.jpg",
       "description": "Compact water filter for safe drinking on hikes and adventures.",
       "pros": [
         "Lightweight",
@@ -280,7 +280,7 @@
       "slug": "camelbak-hydration-pack",
       "name": "CamelBak Hydration Backpack",
       "price": "$50-$120",
-      "image": "/assets/beach-tent.jpg",
+      "image": "/assets/festival-gear.jpg",
       "description": "Hands-free hydration backpack with 2L reservoir and extra storage for festival essentials.",
       "pros": [
         "Hands-free hydration",
@@ -294,7 +294,7 @@
       "slug": "lunchbox-hydration-pack",
       "name": "Lunchbox Hydration Pack",
       "price": "$35-$70",
-      "image": "/assets/anker.jpg",
+      "image": "/assets/festival-gear.jpg",
       "description": "Colorful hydration pack sized for festivals with accessory pockets and phone slot.",
       "pros": [
         "Festival-ready design",
@@ -308,7 +308,7 @@
       "slug": "rechargeable-neck-fan",
       "name": "Rechargeable Neck Fan",
       "price": "$20-$40",
-      "image": "/assets/jbl.jpg",
+      "image": "/assets/festival-gear.jpg",
       "description": "Hands-free neck fan with 3 speed settings and USB recharging. A festival must-have in hot weather.",
       "pros": [
         "Hands-free",
@@ -322,7 +322,7 @@
       "slug": "led-gloves-festival",
       "name": "LED Light Gloves",
       "price": "$10-$20",
-      "image": "/assets/beach-tent.jpg",
+      "image": "/assets/festival-gear.jpg",
       "description": "Multi-mode LED finger light gloves for nighttime festival performances.",
       "pros": [
         "Fun and unique",
@@ -336,7 +336,7 @@
       "slug": "fanny-pack-festival",
       "name": "Waterproof Fanny Pack",
       "price": "$15-$35",
-      "image": "/assets/tommy-chair.jpg",
+      "image": "/assets/festival-gear.jpg",
       "description": "Waterproof crossbody fanny pack with multiple zip pockets for phone, cards, and keys.",
       "pros": [
         "Waterproof",
@@ -350,7 +350,7 @@
       "slug": "portable-charger-10000",
       "name": "Anker 10000mAh Mini Charger",
       "price": "$22-$35",
-      "image": "/assets/anker.jpg",
+      "image": "/assets/festival-gear.jpg",
       "description": "Ultra-compact 10000mAh power bank perfect for festival use.",
       "pros": [
         "Pocket-sized",
