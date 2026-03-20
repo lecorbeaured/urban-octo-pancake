@@ -274,5 +274,91 @@
         "Limited flow rate"
       ]
     }
+  ],
+  "festival": [
+    {
+      "slug": "camelbak-hydration-pack",
+      "name": "CamelBak Hydration Backpack",
+      "price": "$50-$120",
+      "image": "/assets/beach-tent.jpg",
+      "description": "Hands-free hydration backpack with 2L reservoir and extra storage for festival essentials.",
+      "pros": [
+        "Hands-free hydration",
+        "Extra pockets"
+      ],
+      "cons": [
+        "Cleaning reservoir takes effort"
+      ]
+    },
+    {
+      "slug": "lunchbox-hydration-pack",
+      "name": "Lunchbox Hydration Pack",
+      "price": "$35-$70",
+      "image": "/assets/anker.jpg",
+      "description": "Colorful hydration pack sized for festivals with accessory pockets and phone slot.",
+      "pros": [
+        "Festival-ready design",
+        "Affordable"
+      ],
+      "cons": [
+        "Smaller reservoir"
+      ]
+    },
+    {
+      "slug": "rechargeable-neck-fan",
+      "name": "Rechargeable Neck Fan",
+      "price": "$20-$40",
+      "image": "/assets/jbl.jpg",
+      "description": "Hands-free neck fan with 3 speed settings and USB recharging. A festival must-have in hot weather.",
+      "pros": [
+        "Hands-free",
+        "USB rechargeable"
+      ],
+      "cons": [
+        "Limited airflow range"
+      ]
+    },
+    {
+      "slug": "led-gloves-festival",
+      "name": "LED Light Gloves",
+      "price": "$10-$20",
+      "image": "/assets/beach-tent.jpg",
+      "description": "Multi-mode LED finger light gloves for nighttime festival performances.",
+      "pros": [
+        "Fun and unique",
+        "Battery included"
+      ],
+      "cons": [
+        "Short battery life on highest mode"
+      ]
+    },
+    {
+      "slug": "fanny-pack-festival",
+      "name": "Waterproof Fanny Pack",
+      "price": "$15-$35",
+      "image": "/assets/tommy-chair.jpg",
+      "description": "Waterproof crossbody fanny pack with multiple zip pockets for phone, cards, and keys.",
+      "pros": [
+        "Waterproof",
+        "Hands-free carry"
+      ],
+      "cons": [
+        "Limited capacity"
+      ]
+    },
+    {
+      "slug": "portable-charger-10000",
+      "name": "Anker 10000mAh Mini Charger",
+      "price": "$22-$35",
+      "image": "/assets/anker.jpg",
+      "description": "Ultra-compact 10000mAh power bank perfect for festival use.",
+      "pros": [
+        "Pocket-sized",
+        "Fast charging"
+      ],
+      "cons": [
+        "Lower capacity than full-size"
+      ]
+    }
   ]
 }
