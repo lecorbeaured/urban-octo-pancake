@@ -4,19 +4,85 @@
       "slug": "tommy-bahama-backpack-beach-chair",
       "name": "Tommy Bahama Backpack Beach Chair",
       "price": "$80-$150",
-      "image": "assets/tommy-chair.jpg",
+      "image": "/assets/tommy-chair.jpg",
       "description": "Lightweight backpack beach chair with multiple recline positions and cup holder.",
-      "pros": ["Easy to carry","Multiple recline settings"],
-      "cons": ["Not for very large users"]
+      "pros": [
+        "Easy to carry",
+        "Multiple recline settings"
+      ],
+      "cons": [
+        "Not for very large users"
+      ]
     },
     {
       "slug": "ocoopa-beach-tent",
       "name": "OCOOPA Beach Tent",
       "price": "$60-$120",
-      "image": "assets/beach-tent.jpg",
+      "image": "/assets/beach-tent.jpg",
       "description": "Pop-up beach tent with UPF 50+ protection and sand anchors.",
-      "pros": ["Sun protection","Quick setup"],
-      "cons": ["Can be windy without stakes"]
+      "pros": [
+        "Sun protection",
+        "Quick setup"
+      ],
+      "cons": [
+        "Can be windy without stakes"
+      ]
+    },
+    {
+      "slug": "yeti-hopper-cooler",
+      "name": "Yeti Hopper Cooler",
+      "price": "$249-$399",
+      "image": "/assets/anker.jpg",
+      "description": "Premium insulated cooler that keeps ice for days.",
+      "pros": [
+        "Excellent ice retention",
+        "Rugged build"
+      ],
+      "cons": [
+        "Expensive"
+      ]
+    },
+    {
+      "slug": "big-umbrella-pro",
+      "name": "Big Beach Umbrella",
+      "price": "$40-$90",
+      "image": "/assets/beach-tent.jpg",
+      "description": "Oversized beach umbrella with vented top for wind stability.",
+      "pros": [
+        "Large shade area",
+        "Stable in wind"
+      ],
+      "cons": [
+        "Bulky to carry"
+      ]
+    },
+    {
+      "slug": "waterproof-phone-pouch",
+      "name": "Waterproof Phone Pouch",
+      "price": "$8-$20",
+      "image": "/assets/jbl.jpg",
+      "description": "Clear waterproof pouch with lanyard for phone protection at the beach.",
+      "pros": [
+        "Affordable",
+        "Universal fit"
+      ],
+      "cons": [
+        "Can fog in hot weather"
+      ]
+    },
+    {
+      "slug": "beach-bag-essentials",
+      "name": "Large Beach Bag",
+      "price": "$25-$70",
+      "image": "/assets/tommy-chair.jpg",
+      "description": "Spacious beach bag with wet/dry compartments and sand proof bottom.",
+      "pros": [
+        "Big capacity",
+        "Durable"
+      ],
+      "cons": [
+        "May trap sand"
+      ]
     }
   ],
   "travel": [
@@ -26,8 +92,13 @@
       "price": "$25-$60",
       "image": "assets/anker.jpg",
       "description": "High-capacity power bank for phones and tablets.",
-      "pros": ["Fast charging","Compact"],
-      "cons": ["Heavy for long trips"]
+      "pros": [
+        "Fast charging",
+        "Compact"
+      ],
+      "cons": [
+        "Heavy for long trips"
+      ]
     }
   ],
   "pool": [
@@ -36,9 +107,14 @@
       "name": "JBL Waterproof Bluetooth Speaker",
       "price": "$80-$200",
       "image": "assets/jbl.jpg",
-      "description": "Portable waterproof speaker with powerful bass—perfect for pool parties.",
-      "pros": ["Waterproof","Loud sound"],
-      "cons": ["Premium price"]
+      "description": "Portable waterproof speaker with powerful bass\u2014perfect for pool parties.",
+      "pros": [
+        "Waterproof",
+        "Loud sound"
+      ],
+      "cons": [
+        "Premium price"
+      ]
     }
   ]
 }
