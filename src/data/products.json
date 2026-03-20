@@ -1,0 +1,44 @@
+{
+  "beach": [
+    {
+      "slug": "tommy-bahama-backpack-beach-chair",
+      "name": "Tommy Bahama Backpack Beach Chair",
+      "price": "$80-$150",
+      "image": "assets/tommy-chair.jpg",
+      "description": "Lightweight backpack beach chair with multiple recline positions and cup holder.",
+      "pros": ["Easy to carry","Multiple recline settings"],
+      "cons": ["Not for very large users"]
+    },
+    {
+      "slug": "ocoopa-beach-tent",
+      "name": "OCOOPA Beach Tent",
+      "price": "$60-$120",
+      "image": "assets/beach-tent.jpg",
+      "description": "Pop-up beach tent with UPF 50+ protection and sand anchors.",
+      "pros": ["Sun protection","Quick setup"],
+      "cons": ["Can be windy without stakes"]
+    }
+  ],
+  "travel": [
+    {
+      "slug": "anker-portable-charger",
+      "name": "Anker Portable Charger",
+      "price": "$25-$60",
+      "image": "assets/anker.jpg",
+      "description": "High-capacity power bank for phones and tablets.",
+      "pros": ["Fast charging","Compact"],
+      "cons": ["Heavy for long trips"]
+    }
+  ],
+  "pool": [
+    {
+      "slug": "jbl-waterproof-speaker",
+      "name": "JBL Waterproof Bluetooth Speaker",
+      "price": "$80-$200",
+      "image": "assets/jbl.jpg",
+      "description": "Portable waterproof speaker with powerful bass—perfect for pool parties.",
+      "pros": ["Waterproof","Loud sound"],
+      "cons": ["Premium price"]
+    }
+  ]
+}

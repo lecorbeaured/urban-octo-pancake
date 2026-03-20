@@ -14,6 +14,9 @@ createRoot(document.getElementById('root')!).render(
       <Routes>
         <Route path='/' element={<Home/>} />
         <Route path='/about' element={<About/>} />
+        <Route path='/category/:slug' element={React.createElement((await import('./pages/categories/CategoryPage')).default)} />
+        <Route path='/product/:slug' element={React.createElement((await import('./pages/products/ProductPage')).default)} />
+        <Route path='/guides/best-beach-chairs' element={React.createElement((await import('./pages/guides/BestBeachChairs')).default)} />
         <Route path='/contact' element={<Contact/>} />
         <Route path='/privacy' element={<Privacy/>} />
         <Route path='/disclosure' element={<Disclosure/>} />
