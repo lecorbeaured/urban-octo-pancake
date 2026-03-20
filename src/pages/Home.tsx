@@ -58,3 +58,36 @@ export default function Home(){
     </>
   )
 }
+
+      <section className="container pinterest" style={{paddingBottom:'4rem'}}>
+        <h2>Pinterest-Ready Checklists</h2>
+        <div className="cards pinterest-grid">
+          <div className="pinterest-card">
+            <h3>Beach Packing List</h3>
+            <ul>
+              <li>✔️ SPF 40+ sunscreen</li>
+              <li>✔️ Waterproof phone pouch</li>
+              <li>✔️ Quick-dry towel</li>
+            </ul>
+            <Link to="/category/beach">Open guide →</Link>
+          </div>
+          <div className="pinterest-card">
+            <h3>Festival Packing Guide</h3>
+            <ul>
+              <li>✔️ Hydration pack</li>
+              <li>✔️ Mini power bank</li>
+              <li>✔️ Cooling neck fan</li>
+            </ul>
+            <Link to="/guides/pool-party">See checklist →</Link>
+          </div>
+          <div className="pinterest-card">
+            <h3>Pool Party Must-Haves</h3>
+            <ul>
+              <li>✔️ Waterproof speaker</li>
+              <li>✔️ FUNBOY float</li>
+              <li>✔️ Cooler table</li>
+            </ul>
+            <Link to="/category/pool">Shop pool gear →</Link>
+          </div>
+        </div>
+      </section>
