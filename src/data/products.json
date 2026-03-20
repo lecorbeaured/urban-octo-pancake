@@ -88,16 +88,88 @@
   "travel": [
     {
       "slug": "anker-portable-charger",
-      "name": "Anker Portable Charger",
-      "price": "$25-$60",
-      "image": "assets/anker.jpg",
-      "description": "High-capacity power bank for phones and tablets.",
+      "name": "Anker 20000mAh Portable Charger",
+      "price": "$35-$60",
+      "image": "/assets/anker.jpg",
+      "description": "High-capacity power bank that charges two devices simultaneously. Compact and TSA-friendly.",
       "pros": [
         "Fast charging",
-        "Compact"
+        "Dual USB-C + USB-A",
+        "TSA approved"
       ],
       "cons": [
-        "Heavy for long trips"
+        "Slightly heavy for ultralight packing"
+      ]
+    },
+    {
+      "slug": "bagsmart-travel-organizer",
+      "name": "BAGSMART Travel Organizer",
+      "price": "$25-$45",
+      "image": "/assets/tommy-chair.jpg",
+      "description": "Multi-compartment cable and accessory organizer that keeps your tech tangle-free in transit.",
+      "pros": [
+        "Multiple pockets",
+        "Fits in personal item"
+      ],
+      "cons": [
+        "Not waterproof"
+      ]
+    },
+    {
+      "slug": "samsonite-travel-backpack",
+      "name": "Samsonite Freeform Travel Backpack",
+      "price": "$90-$150",
+      "image": "/assets/beach-tent.jpg",
+      "description": "Carry-on friendly backpack with laptop sleeve and ergonomic straps for long travel days.",
+      "pros": [
+        "Airline carry-on size",
+        "Padded laptop sleeve"
+      ],
+      "cons": [
+        "Limited color options"
+      ]
+    },
+    {
+      "slug": "compression-packing-cubes",
+      "name": "Compression Packing Cubes (6-set)",
+      "price": "$25-$40",
+      "image": "/assets/jbl.jpg",
+      "description": "Set of 6 compression packing cubes to maximize luggage space and keep clothes organized.",
+      "pros": [
+        "Maximize suitcase space",
+        "Keeps clothes wrinkle-free"
+      ],
+      "cons": [
+        "Slight learning curve first use"
+      ]
+    },
+    {
+      "slug": "neck-pillow-travel",
+      "name": "BCOZZY Travel Neck Pillow",
+      "price": "$30-$50",
+      "image": "/assets/tommy-chair.jpg",
+      "description": "Ergonomic memory foam neck pillow that wraps around fully for head and chin support on flights.",
+      "pros": [
+        "Head and chin support",
+        "Machine washable cover"
+      ],
+      "cons": [
+        "Bulky to pack"
+      ]
+    },
+    {
+      "slug": "mini-handheld-fan",
+      "name": "Rechargeable Mini Handheld Fan",
+      "price": "$15-$30",
+      "image": "/assets/anker.jpg",
+      "description": "Compact USB rechargeable fan with 3 speed settings. Perfect for airports, festivals, and travel days.",
+      "pros": [
+        "Lightweight",
+        "USB rechargeable",
+        "3 speeds"
+      ],
+      "cons": [
+        "Short battery life on high setting"
       ]
     }
   ],
