@@ -14,8 +14,8 @@ const BestBeachChairs = React.lazy(() => import('./pages/guides/BestBeachChairs'
 
 createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
-      <ErrorBoundary>
-    <BrowserRouter>
+    <ErrorBoundary>
+      <BrowserRouter>
       <Suspense fallback={<div className='loader'>Loading…</div>}>
       <Routes>
         <Route path='/' element={<Home/>} />
@@ -28,7 +28,7 @@ createRoot(document.getElementById('root')!).render(
         <Route path='/disclosure' element={<Disclosure/>} />
       </Routes>
       </Suspense>
-      </ErrorBoundary>
-    </BrowserRouter>
+      </BrowserRouter>
+    </ErrorBoundary>
   </React.StrictMode>
 )
