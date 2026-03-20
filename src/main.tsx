@@ -11,6 +11,7 @@ import Disclosure from './pages/Disclosure'
 const CategoryPage = React.lazy(() => import('./pages/categories/CategoryPage'))
 const ProductPage = React.lazy(() => import('./pages/products/ProductPage'))
 const BestBeachChairs = React.lazy(() => import('./pages/guides/BestBeachChairs'))
+const TravelGuide = React.lazy(() => import('./pages/guides/TravelGuide'))
 
 createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
@@ -23,6 +24,7 @@ createRoot(document.getElementById('root')!).render(
         <Route path='/category/:slug' element={<CategoryPage/>} />
         <Route path='/product/:slug' element={<ProductPage/>} />
         <Route path='/guides/best-beach-chairs' element={<BestBeachChairs/>} />
+        <Route path='/guides/travel-gear' element={<TravelGuide/>} />
         <Route path='/contact' element={<Contact/>} />
         <Route path='/privacy' element={<Privacy/>} />
         <Route path='/disclosure' element={<Disclosure/>} />
