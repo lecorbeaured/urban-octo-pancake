@@ -178,14 +178,84 @@
       "slug": "jbl-waterproof-speaker",
       "name": "JBL Waterproof Bluetooth Speaker",
       "price": "$80-$200",
-      "image": "assets/jbl.jpg",
-      "description": "Portable waterproof speaker with powerful bass\u2014perfect for pool parties.",
+      "image": "/assets/pool-party.jpg",
+      "description": "Pool-ready speaker with waterproof rating and booming sound.",
       "pros": [
         "Waterproof",
-        "Loud sound"
+        "Long battery"
       ],
       "cons": [
         "Premium price"
+      ]
+    },
+    {
+      "slug": "funboy-float",
+      "name": "FUNBOY Inflatable Pool Float",
+      "price": "$59-$129",
+      "image": "/assets/pool-party.jpg",
+      "description": "Luxury pool float with photogenic design for parties.",
+      "pros": [
+        "Stylish",
+        "Comfortable"
+      ],
+      "cons": [
+        "Needs pump"
+      ]
+    },
+    {
+      "slug": "cooler-table",
+      "name": "Cooler Side Table",
+      "price": "$49-$99",
+      "image": "/assets/pool-party.jpg",
+      "description": "Dual-purpose cooler and table for poolside drinks.",
+      "pros": [
+        "Two-in-one",
+        "Keeps drinks cold"
+      ],
+      "cons": [
+        "Limited capacity"
+      ]
+    },
+    {
+      "slug": "drink-floats",
+      "name": "Inflatable Drink Floats",
+      "price": "$12-$25",
+      "image": "/assets/pool-party.jpg",
+      "description": "Fun drink holders that float next to you in the pool.",
+      "pros": [
+        "Colorful",
+        "Keeps drinks nearby"
+      ],
+      "cons": [
+        "Light, can drift"
+      ]
+    },
+    {
+      "slug": "waterproof-string-lights",
+      "name": "Waterproof LED String Lights",
+      "price": "$20-$40",
+      "image": "/assets/pool-party.jpg",
+      "description": "USB string lights to set the mood for nighttime pool parties.",
+      "pros": [
+        "Adds ambiance",
+        "Weather-resistant"
+      ],
+      "cons": [
+        "Needs power source"
+      ]
+    },
+    {
+      "slug": "portable-mini-fridge",
+      "name": "Portable Mini Fridge",
+      "price": "$70-$120",
+      "image": "/assets/pool-party.jpg",
+      "description": "Skincare + beverage mini fridge ideal for patios.",
+      "pros": [
+        "Keeps drinks nearby",
+        "Cute colors"
+      ],
+      "cons": [
+        "Limited space"
       ]
     }
   ],
@@ -358,6 +428,92 @@
       ],
       "cons": [
         "Lower capacity than full-size"
+      ]
+    }
+  ],
+  "health": [
+    {
+      "slug": "supergoop-unseen-sunscreen",
+      "name": "Supergoop! Unseen Sunscreen SPF 40",
+      "price": "$38-$48",
+      "image": "/assets/health-skincare.jpg",
+      "description": "Invisible SPF that doubles as a makeup-gripping primer.",
+      "pros": [
+        "Invisible",
+        "Great under makeup"
+      ],
+      "cons": [
+        "Higher price"
+      ]
+    },
+    {
+      "slug": "neutrogena-ultra-sheer",
+      "name": "Neutrogena Ultra Sheer Sunscreen SPF 70",
+      "price": "$9-$15",
+      "image": "/assets/health-skincare.jpg",
+      "description": "Broad-spectrum SPF with lightweight feel and water resistance.",
+      "pros": [
+        "Budget-friendly",
+        "High SPF"
+      ],
+      "cons": [
+        "Can feel greasy if over-applied"
+      ]
+    },
+    {
+      "slug": "cooling-face-mist",
+      "name": "Cooling Aloe Face Mist",
+      "price": "$12-$25",
+      "image": "/assets/health-skincare.jpg",
+      "description": "Aloe + cucumber mist for soothing sun-exposed skin.",
+      "pros": [
+        "Instant relief",
+        "Great mid-day refresh"
+      ],
+      "cons": [
+        "Needs refrigeration for extra chill"
+      ]
+    },
+    {
+      "slug": "sun-bum-after-sun",
+      "name": "Sun Bum After Sun Lotion",
+      "price": "$12-$18",
+      "image": "/assets/health-skincare.jpg",
+      "description": "Hydrating after-sun lotion with aloe and vitamin E.",
+      "pros": [
+        "Smells great",
+        "Hydrating"
+      ],
+      "cons": [
+        "Not a medicated treatment"
+      ]
+    },
+    {
+      "slug": "uv-protection-shirt",
+      "name": "UPF 50 Sun Shirt",
+      "price": "$25-$60",
+      "image": "/assets/health-skincare.jpg",
+      "description": "Lightweight long-sleeve shirt with UPF 50 fabric.",
+      "pros": [
+        "High UV protection",
+        "Breathable"
+      ],
+      "cons": [
+        "Fit may be loose"
+      ]
+    },
+    {
+      "slug": "wide-brim-sun-hat",
+      "name": "Wide-Brim Straw Sun Hat",
+      "price": "$20-$45",
+      "image": "/assets/health-skincare.jpg",
+      "description": "Classic straw hat for face + shoulder coverage.",
+      "pros": [
+        "Stylish",
+        "Shade for face"
+      ],
+      "cons": [
+        "Needs gentle packing"
       ]
     }
   ]
